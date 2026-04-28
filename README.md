@@ -5,7 +5,7 @@
 
 ### About me
 
-I'm an engineering leader based in Chennai, India, with **15+ years of experience** shipping production software, leading teams, and architecting systems from the ground up.
+I'm an engineering leader based in Chennai, India, with **17+ years of experience** shipping production software, leading teams, and architecting systems from the ground up.
 
 I currently lead engineering and delivery at **Vriksha Techno Solutions**, where I manage a team of **30+ engineers** building SaaS products across real estate, automotive, food, finance, and healthcare domains.
 
