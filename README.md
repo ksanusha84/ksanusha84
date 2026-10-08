@@ -36,7 +36,12 @@ Private repository (commercial product) — demo available on request.
 - 👥 **Engineering leadership** — hiring, mentoring, sprint cadences, code review culture, and shipping things on time without burning teams out.
 
 ---
+### Research
 
+- 📄 "A Governance-Driven Framework for Adopting Agentic AI in Software Engineering Organisations" — submitted to IEEE AIEI 2027
+- 🧪 [Agentic AI Benchmark](https://github.com/ksanusha84/agentic-ai-benchmark) — open-source benchmark for evaluating AI coding assistants on production-context tasks
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=NAkCyPQAAAAJ)
+---
 ### Tech I use most
 
 **Backend:** TypeScript, Node.js, NestJS, PHP, Laravel
