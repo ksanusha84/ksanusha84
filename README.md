@@ -72,7 +72,7 @@ If you'd like to discuss specific architectures I've built, AI implementations I
 
 - 💼 [LinkedIn](https://linkedin.com/in/ksanusha)
 - 📧 ksanusha84@gmail.com
-
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=NAkCyPQAAAAJ)
 ---
 
 <p align="center"><i>"The AI is 10% of the stack. The other 90% is plumbing — and the plumbing is what makes it work in production."</i></p>
