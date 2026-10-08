@@ -14,7 +14,19 @@ In 2026, my focus is at the intersection of **agentic AI and SaaS** — integrat
 📍 Based in Chennai · 💬 Let's chat about engineering, AI, or shipping things that work
 
 ---
+## 🚀 Latest: Vrix Concierge
 
+An AI support agent you add to any website with one script tag.
+
+- Answers visitors from the site's own pages — and says so when it doesn't know
+- Hands over to a person when needed: live chat, audio call or video call
+- One server, many clients: each gets their own agent, team logins, inbox and dashboard, with subscription plans
+
+**Node.js · Express · MongoDB · Claude API · WebRTC.** Built by directing Claude Code
+as the coding agent — I owned the product decisions, testing and deployment.
+Private repository (commercial product) — demo available on request.
+
+---
 ### What I work on
 
 - 🤖 **Agentic AI in production** — integrating OpenAI APIs into CRMs, WhatsApp Business platforms, and operational tools. Prompts, RAG, evals, the whole stack.
