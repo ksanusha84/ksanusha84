@@ -43,7 +43,7 @@ Private repository (commercial product) — demo available on request.
 **Frontend & Mobile:** React, Flutter, JavaScript
 **Cloud & Infra:** AWS (Lambda, EC2, S3), Git, CI/CD
 **Data:** MySQL, REST APIs, integration platforms
-**AI:** OpenAI APIs, prompt engineering, RAG, agentic workflows
+**AI:** Anthropic Claude API, OpenAI APIs, coding agents (Claude Code), prompt engineering, RAG, agentic workflows
 **Integrations:** WhatsApp Business API, Meta Lead Ads API
 
 ---
