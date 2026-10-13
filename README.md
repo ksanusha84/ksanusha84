@@ -26,8 +26,8 @@ An AI support agent you add to any website with one script tag.
 as the coding agent — I owned the product decisions, testing and deployment.
 Private repository (commercial product) — demo available on request.
 
-[Read the build story](https://github.com/ksanusha84/vrix-concierge-build-story)
----
+**[Read the build story](https://github.com/ksanusha84/vrix-concierge-build-story)
+**---
 ### What I work on
 
 - 🤖 **Agentic AI in production** — integrating OpenAI APIs into CRMs, WhatsApp Business platforms, and operational tools. Prompts, RAG, evals, the whole stack.
