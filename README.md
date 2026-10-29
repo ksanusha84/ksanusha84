@@ -42,6 +42,7 @@ Private repository (commercial product) — demo available on request.
 - 📄 "A Governance-Driven Framework for Adopting Agentic AI in Software Engineering Organisations" — submitted to IEEE AIEI 2027
 - 🧪 [Agentic AI Benchmark](https://github.com/ksanusha84/agentic-ai-benchmark) — open-source benchmark for evaluating AI coding assistants on production-context tasks
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=NAkCyPQAAAAJ)
+-  a decade of production work lives in our company’s private account (@vtsindia-dev)
 ---
 ### Tech I use most
 
